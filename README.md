@@ -1,16 +1,18 @@
-## Hi there 👋
+# Despoina Krousaniotaki
 
-<!--
-**KrousaniotakiDespina/KrousaniotakiDespina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently completing the Coding Factory program at the Athens University of Economics (AUEB).
+As part of the program, I focus on software development and building web applications.
+At the same time, I am exploring UI and UX design and expanding my knowledge in this field.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# | ASP.NET Core | MySQL | HTML | CSS | Bootstrap
+
+## Currently Learning
+
+Figma | UI Design Principles | UX Fundamentals
+
+## Current Projects
+
+- Coding Factory Final Project (In progress)
+- Personal learning projects
