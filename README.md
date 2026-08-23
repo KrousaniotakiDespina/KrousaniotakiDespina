@@ -14,5 +14,5 @@ Figma | UI Design Principles | UX Fundamentals
 
 ## Current Projects
 
-- Coding Factory Final Project (In progress)
+- StudySpace (In progress)
 - Personal learning projects
