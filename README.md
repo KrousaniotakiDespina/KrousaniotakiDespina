@@ -14,5 +14,5 @@ Figma | UI Design Principles | UX Fundamentals
 
 ## Current Projects
 
-- StudySpace (In progress)
+- StudySpace
 - Personal learning projects
